@@ -104,7 +104,7 @@ export default function NavBar() {
             direction={"row"} 
             justifyContent={"space-between"} 
             alignItems={"center"} 
-            bg="#bfbdb8" // Change to your desired color
+            bg="#efa21d" // #f59d05 Change to your desired color
             color="white" // Change text color for contrast
             px={4} // Add padding for better spacing
             position="fixed" // Fix the navbar to the top

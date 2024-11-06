@@ -1,35 +1,12 @@
-## Getting Started
+## Fortune Farm
 
-Create a project using this example:
+A Web3 game based on real life challeges faced in farming by farmers.
 
-```bash
-npx thirdweb create --template next-typescript-starter
-```
+### Contract Addresses 
+FARMER NFT = '0x0FB5388b5c7e533A07F8191C4C3F9752Fd3de940'
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+TOOLS NFT = '0x0365116F5A80c99b0b8FC8f1684b91B6C1655E6c'
 
-On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+REWARDS TOKEN = '0x3Ac75b0d5e56673B3b01f82071219e71b236167E'
 
-### Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-yarn deploy
-```
-
-## Learn More
-
-To learn more about thirdweb and Next.js, take a look at the following resources:
-
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb TypeScript Documentation](https://docs.thirdweb.com/typescript) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+STAKING Contract = '0x025d726aE8A03A6AC481ae182059E92A8c3aF3Fd'
